@@ -1,3 +1,4 @@
+![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.svg)
 # Say Goodbye To Schoology Lists!
 
 Welcome to abSENT! We're a Mobile App + API Backend that notifies Newton students when their teachers are absent. 
