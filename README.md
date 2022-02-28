@@ -1,5 +1,5 @@
 ![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.svg)
-# Say Goodbye To Schoology Lists!
+# 👋 Say Goodbye To Schoology Lists!
 
 Welcome to abSENT! We're a Mobile App + API Backend that notifies Newton students when their teachers are absent. 
 
@@ -7,12 +7,12 @@ Long gone are the mornings of scrolling through schoology, praying that your tea
 
 With abSENT, these days are, well...*absent*.
 
-# Inspiration
+# 💡 Inspiration
 We got sick of having to check Schoology. The mobile interface is non-existent, the lists do not load on data (or sometimes school wifi!), and squinting to find your teacher in a list of 25 is just painful.
 
 Thus, abSENT was born.
 
-# Features
+# 💽 Features
 - Daily push notifications for your absent teachers
 - User friendly interface *with actual CSS!*
 - Multi-teacher class support -> Get notifications even for your TA!
