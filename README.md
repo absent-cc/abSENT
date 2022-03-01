@@ -8,7 +8,7 @@ Long gone are the mornings of scrolling through schoology, praying that your tea
 With abSENT, these days are, well...*absent*.
 
 # 💡 Inspiration
-We got sick of having to check Schoology. The mobile interface is non-existent, the lists do not load on data (or sometimes school wifi!), and squinting to find your teacher in a list of 25 is just painful.
+We got sick of having to check Schoology. The mobile interface is non-existent, the lists do not load on data (or even school wifi!), and squinting to find your teacher in a list of 25 is just painful.
 
 Thus, abSENT was born.
 
