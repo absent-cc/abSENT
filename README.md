@@ -1,9 +1,9 @@
 ![abSENT Github Banner](https://github.com/absent-cc/branding/blob/main/assets/banner.svg)
 # 👋 Say Goodbye To Schoology Lists!
 
-Welcome to abSENT! We're a Mobile App + API Backend that notifies Newton students when their teachers are absent. 
+Welcome to abSENT! We're a mobile app that notifies Newton Public Schools students when their teachers are absent.
 
-Long gone are the mornings of scrolling through schoology, praying that your teacher is absent, only to miss their name in a sea of absent teachers. Long gone are the times when you walk into your class, only to realize that your teacher is absent.
+Long gone are the mornings of scrolling through Schoology, praying that your teacher is absent, only to miss their name in a sea of absent teachers. Long gone are the times when you walk into your class, only to realize that your teacher is absent.
 
 With abSENT, these days are, well...*absent*.
 
@@ -13,22 +13,15 @@ We got sick of having to check Schoology. The mobile interface is non-existent, 
 Thus, abSENT was born.
 
 # 💽 Features
-- Daily push notifications for your absent teachers
-- User friendly interface *with actual CSS!*
-- Multi-teacher class support -> Get notifications even for your TA!
-- Extra teachers -> Get notifications when any teacher is absent, not just core classes!
-- Cross platform support:
-    - iOS
-    - Android
-    - *Windows Phone!?*
-- No ads!
-- Multi-device logins: Phone, iPad, Tablet, *Smart Fridge?* -> Its All Fair Game!
-- Secure login through Google OAuth
-- Data Privacy:
-    - No personal information is stored
-    - Data can only be accessed by authorized users
-    - You can revoke access at any time
-    - Auto-logout after inactivity
-- 24/7 on-site support
+- Works at both North and South!
+- Daily push notifications for your absent teachers.
+- Customizability! Don't want another notification every morning but still want to see your teachers? No problem!
+- Easy to use interface.
+- Multi-teacher class support -> Get notified about assistant teachers too!
+- Extra teachers -> Get notifications when extracurricular teachers and coaches are absent too, not just your classes.
+- Secure login with your NPS Google account.
+- Your data is safe!
+    - Personal data can only be accessed by you!
+    - Delete your account at any time and we'll wipe your data. No hard feelings.
 
 ***All this, and its COMPLETELY FREE!***
